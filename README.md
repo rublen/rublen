@@ -8,8 +8,5 @@ I’m currently working as a Ruby/Rails backend developer in Spotlight Media Lab
 - Code culture: we pay much attention to the code quality, 95% coverage with tests, strong rubocop rules, CI, Notion documentation, code reviews
 - My primary obligations: developing and providing features, support and maintenance, writing documentation, bug hunting and fixing, code reviews, taking part in meetings and discussions, and direct communication with the CEO and mobile/web developers.
 
-#### Fun fact
-- Before, I said I would never dig with the infrastructure stuff. But now I study "DevOps and Kubernetes". Never say "never" :)
-
 #### How to reach me
 - rublen77@gmail.com
